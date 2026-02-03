@@ -1,4 +1,4 @@
-const Quoteapi = "https://api.quotable.io/random";
+const Quoteapi = "YOUR_QUOTE_API_ENDPOINT_HERE";
 
 const quoteText = document.getElementById("quote");
 const authorName = document.getElementById("author");
